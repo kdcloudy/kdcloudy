@@ -10,6 +10,6 @@ Interested and pursuing skills related to
  - UI/UX
 
 Links:
-https:www.youtube.com/kdcloudy
-https:www.twitter.com/kdcloudy
-https:www.linkedin.com/in/kdcloudy
+www.youtube.com/kdcloudy
+www.twitter.com/kdcloudy
+www.linkedin.com/in/kdcloudy
