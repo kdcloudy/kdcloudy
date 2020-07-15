@@ -1,4 +1,4 @@
-# Hi, My Name is <img src="unnamed.png" width ="48" height= "48" style="float:right">
+# Hi, My Name is <img src="unnamed.png" width ="80 height= "48" style="float:right">
 
 
 
