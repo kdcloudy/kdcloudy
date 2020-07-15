@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi, my name is KD.
 
-<!--
-**kdcloudy/kdcloudy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a CSE Undergrad at VIT Chennai, India
+Background in consumer tech with a YouTube Channel of 4.5K subscribers and 1.5M Views
 
-Here are some ideas to get you started:
+Interested and pursuing skills related to
+ - Web Development
+ - iOS Development
+ - Video Processing
+ - UI/UX
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Links:
+https:www.youtube.com/kdcloudy
+https:www.twitter.com/kdcloudy
+https:www.linkedin.com/in/kdcloudy
