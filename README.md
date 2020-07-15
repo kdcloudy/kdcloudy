@@ -1,4 +1,6 @@
-# Hi, My Name is KD.
+# Hi, My Name is KD. 
+
+<img src="Half Gray Mini.jpg">
 
 I'm a Sophomore CSE Undergrad, with a Technology YouTube Channel of 4.5K subscribers and 1.5M Views
 
