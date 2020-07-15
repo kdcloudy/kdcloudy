@@ -1,7 +1,6 @@
-### Hi, my name is KD.
+# Hi, My Name is KD.
 
-I'm a CSE Undergrad at VIT Chennai, India
-Background in consumer tech with a YouTube Channel of 4.5K subscribers and 1.5M Views
+I'm a Sophomore CSE Undergrad, with a Technology YouTube Channel of 4.5K subscribers and 1.5M Views
 
 Interested and pursuing skills related to
  - Web Development
@@ -9,7 +8,8 @@ Interested and pursuing skills related to
  - Video Processing
  - UI/UX
 
-Links:
-www.youtube.com/kdcloudy
-www.twitter.com/kdcloudy
-www.linkedin.com/in/kdcloudy
+## Connect with me
+- [YouTube](www.youtube.com/kdcloudy)
+- [Twitter](www.twitter.com/kdcloudy)
+- [LinkedIn](www.linkedin.com/in/kdcloudy)
+- [Instagram](www.instagram.com/kdcloudy)
