@@ -1,4 +1,4 @@
-# Hi, My Name is KD. <img src="Half Gray Mini.jpg">
+# Hi, My Name is KD. <img src="Half Gray Mini.jpg" width ="12" height= "12">
 
 
 
