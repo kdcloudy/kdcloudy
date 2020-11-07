@@ -2,12 +2,12 @@
 
 
 
-I'm a Sophomore CSE Undergrad, with a Technology YouTube Channel of 4.5K subscribers and 1.5M Views
+I'm a Sophomore CSE Undergrad, with a Technology YouTube Channel of 6.4K subscribers and 1.7M Views
 
 Interested and pursuing skills related to
  - Web Development
  - iOS Development
- - Video Processing
+ - Video Technologies
  - UI/UX
 
 ## Connect with me
