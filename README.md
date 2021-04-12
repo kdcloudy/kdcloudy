@@ -1,4 +1,4 @@
-# 👋 Hi, My Name is <img src="https://github.com/kdcloudy/kdcloudy/blob/master/unnamed.png?raw=true" width ="50" height= "30" style="float:right">
+# 👋 Hi, My Name is <img src="https://github.com/kdcloudy/kdcloudy/blob/master/unnamed.png?raw=true" width ="50" height= "30" style="float:right; margin-bottom: -10px">
 
 
 I'm a 19 year old, sophomore in CS 🤓
