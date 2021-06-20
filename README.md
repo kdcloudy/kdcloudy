@@ -3,7 +3,7 @@
 
 I'm a 19 year old, sophomore in CS 🤓
 - Technology YouTube Channel of 7K subscribers and 2M Views 📺
-- Working with React ⚛️
+- Working with JavaScript 🕸
 - Struggling with Swift 📱
 - Nerd for Movies, VFX and Surround Sound 📽
 
